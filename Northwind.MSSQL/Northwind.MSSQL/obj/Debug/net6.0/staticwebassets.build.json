@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Y6UA4k1XUeVMo5/PFYJN/ScDe9+XqNFjvwyaEMre0uE=",
+  "Source": "Northwind.MSSQL",
+  "BasePath": "_content/Northwind.MSSQL",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
