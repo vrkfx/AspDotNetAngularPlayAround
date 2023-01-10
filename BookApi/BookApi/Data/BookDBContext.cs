@@ -35,6 +35,11 @@ namespace BookApi.Data
             OnModelCreatingPartial(modelBuilder);
         }
 
+        internal Task FindAsync(int id)
+        {
+            throw new NotImplementedException();
+        }
+
         partial void OnModelCreatingPartial(ModelBuilder modelBuilder);
     }
 }

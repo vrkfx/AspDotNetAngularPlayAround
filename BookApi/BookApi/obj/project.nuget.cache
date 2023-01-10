@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iawlg1/ItGSyuQNWCcy4vFLg39dQ2/rL6luJWHk6Ueu2utTZOKkdZsHA4/ib9u1p7A2fN07RKP4uBeD65FS+1Q==",
+  "dgSpecHash": "+l4AyplOxGwyd8VJIM6qUW6yYqh0fZZw9HrbOA2HRJYV8wSi96B2y2iTvAlS98yswyWLByDPBEjTKFFEk7dHDw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\virro\\Desktop\\BookApi\\BookApi\\BookApi.csproj",
+  "projectFilePath": "C:\\Users\\virro\\Documents\\GitHub\\AspDotNetAngularPlayAround\\BookApi\\BookApi\\BookApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\virro\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\virro\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
